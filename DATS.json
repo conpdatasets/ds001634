@@ -42,8 +42,8 @@
             "information": {
                 "value": "Behavioral Response"
             }
-        }, 
-	{
+        },
+		{
             "information": {
                 "value": "T1W"
             }
@@ -166,6 +166,16 @@
 			"values": [
 				{
 					"value": "external"
+				}
+			]
+		},
+		{
+			"category": "origin",
+			"values": [
+				{
+					"institution": "Imperial College London",
+					"city": "London",
+					"country": "United Kingdom"
 				}
 			]
 		},
