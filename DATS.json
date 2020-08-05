@@ -170,12 +170,26 @@
 			]
 		},
 		{
-			"category": "origin",
+			"category": "origin_institution",
 			"values": [
 				{
-					"institution": "Imperial College London",
-					"city": "London",
-					"country": "United Kingdom"
+					"value": "Imperial College London"
+				}
+			]
+		},
+		{
+			"category": "origin_city",
+			"values": [
+				{
+					"value": "London"
+				}
+			]
+		},
+		{
+			"category": "origin_country",
+			"values": [
+				{
+					"value": "United Kingdom"
 				}
 			]
 		},
