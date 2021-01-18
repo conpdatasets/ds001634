@@ -68,7 +68,7 @@
 			"dates": [
 				{
 					"type": {
-						"value":"Primary reference publication date"
+						"value":"primary reference publication date"
 					},
 					"date": "2019-02-25 00:00:00"
 				}
@@ -111,7 +111,7 @@
 	"dates": [
 		{
 			"type": {
-				"value":"Release Date"
+				"value":"release date"
 			},
 			"date": "2019-02-25 00:00:00"
 		}
