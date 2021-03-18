@@ -7,7 +7,8 @@
 	"privacy": "Open Access; Registered Access",
 	"licenses": [
 		{
-			"name": "Creative Commons Attribution 4.0 International (CC-BY 4.0)"
+			"name": "CC BY-4.0)",
+            "version": "4.0"
 		}
 	],
 	"creators": [
