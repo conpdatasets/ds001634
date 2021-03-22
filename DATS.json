@@ -30,9 +30,15 @@
 	],
 	"types": [
 		{
-            "method": {
-                "value": "MRI"
-            }
+			"information": {
+			        "identifier": {
+            	        "identifier": "113091000",
+                	    "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+                	},
+				{
+					"value": "MRI"
+				}
+			}
         },
         {
             "method": {
@@ -51,7 +57,11 @@
         },
         {
             "information": {
-                "value": "Visual Working Memory (WM)"
+                "identifier": {
+                    "identifier": "ilx_0112531",
+                    "identifierSource":"http://uri.interlex.org/base/ilx_0112531"
+                },
+                "value": "visual working memory"
             }
         }
 	],
