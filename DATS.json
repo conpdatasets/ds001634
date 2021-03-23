@@ -35,9 +35,7 @@
             	        "identifier": "113091000",
                 	    "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
                 	},
-				{
 					"value": "MRI"
-				}
 			}
         },
         {
@@ -148,19 +146,19 @@
 	],
 	"keywords": [
 		{
-            "value": "Task fMRI"
+            "value": "task fMRI"
         },
         {
-            "value": "Behavioral Response"
+            "value": "behavioral response"
         },
         {
-            "value": "Visual Working Memory (WM)"
+            "value": "visual working memory (WM)"
         },
         {
             "value": "MRI"
         },
         {
-            "value": "Group Study"
+            "value": "study group"
         }
 	],
 	"extraProperties": [
@@ -222,4 +220,3 @@
 		}
 	]
 }
-
