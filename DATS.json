@@ -30,13 +30,11 @@
 	],
 	"types": [
 		{
-			"information": {
-			        "identifier": {
-            	        "identifier": "113091000",
-                	    "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
-                	},
-					"value": "MRI"
-			}
+			"identifier": {
+                "identifier": "113091000",
+                "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+            },
+			"value": "MRI"
         },
         {
             "method": {
@@ -54,13 +52,11 @@
             }
         },
         {
-            "information": {
-                "identifier": {
-                    "identifier": "ilx_0112531",
-                    "identifierSource":"http://uri.interlex.org/base/ilx_0112531"
-                },
-                "value": "visual working memory"
-            }
+            "identifier": {
+                "identifier": "ilx_0112531",
+                "identifierSource":"http://uri.interlex.org/base/ilx_0112531"
+            },
+            "value": "visual working memory"
         }
 	],
 	"title": "Visual working memory: Study of Task fMRI and Behavioural response",
